@@ -9,16 +9,27 @@
 6. Open the created folder in VS Code.
 7. type 'npm start' in terminal
 8. Remove following unnecessary files.
+   
    a. setupTests.js
+
    b. reportWebVitals.js
+
    c. logo.svg
+
    d. remove CSS from 'index.css'
+
    e. remove CSS from 'App.css'
+
    f. App.test.js
+
    g. from public folder delete all files except 'index.html'
+
    h. from index.js remove 'reportWebvitals' word.
+
    i. from App.js remove 'logo'
+
    j. Edit 'App.js'.
+
 
 React Installation Guide: https://www.youtube.com/watch?v=u1K_04yj7Tc
 
