@@ -21,6 +21,9 @@
    j. Edit 'App.js'.
 
 React Installation Guide: https://www.youtube.com/watch?v=u1K_04yj7Tc
+
 About npm: https://www.youtube.com/watch?v=s8G5Cjrj81I
+
 Node JS installation: https://www.youtube.com/watch?v=CS4Dilsy0ss
+
 Tailwind installation: https://www.youtube.com/watch?v=vFQV1SMb8co
